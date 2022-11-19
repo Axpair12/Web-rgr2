@@ -838,7 +838,7 @@ section {
 .header_black h2:after {
     display: table;
     position: relative;
-    left: 1000px;
+    left: 100px;
     bottom: 10px;
     height: 2px;
     content: " ";
